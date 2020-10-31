@@ -106,8 +106,8 @@ git commit -m “komentar commit”.
 •	Buka laman github.com, arahkan pada repositorinya.
 
 •	Maka perubahan akan terlihat pada laman tersebut.
+![Screenshot (38)](https://user-images.githubusercontent.com/72993076/97783372-d0c6d480-1bc9-11eb-98a7-9e642174264a.png)
 
-![Screenshot (25)](https://user-images.githubusercontent.com/72993076/96338650-e6140d00-10b9-11eb-8e10-fa6ed4a61f99.png)
 
 
 

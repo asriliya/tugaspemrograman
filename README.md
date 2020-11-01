@@ -128,5 +128,26 @@ Menjalankan Python di Visual Studio Code
 
      ![Screenshot (31)](https://user-images.githubusercontent.com/72993076/97794194-604fa000-1c29-11eb-9bf6-f02f12602db6.png)
      
-4.  
+4.  Isi file lab1.py dengan menuliskan seperti gambar dibawah ini.
 
+    ![Screenshot (32)](https://user-images.githubusercontent.com/72993076/97794539-2f259e80-1c2e-11eb-8ae9-c24fee628dad.png)
+    
+    ![Screenshot (39)](https://user-images.githubusercontent.com/72993076/97794548-482e4f80-1c2e-11eb-8d2d-f12f658dddd4.png)
+
+5.  Setelah itu di Run dan lihat hasil outputnya.
+
+    ![Screenshot (40)](https://user-images.githubusercontent.com/72993076/97794641-3600e100-1c2f-11eb-8698-f5ddea8f1c1a.png)
+
+    ![Screenshot (41)](https://user-images.githubusercontent.com/72993076/97794643-36997780-1c2f-11eb-9c86-4b835904f104.png) 
+    
+6.  Buat file lagi dengan nama lab2.py.
+
+    ![Screenshot (42)](https://user-images.githubusercontent.com/72993076/97794719-14542980-1c30-11eb-91be-52768ea69ffe.png)
+
+7.  Isi file lab2.py dengan menuliskan seperti gambar dibawah ini :
+
+    ![Screenshot (43)](https://user-images.githubusercontent.com/72993076/97794767-7a40b100-1c30-11eb-92fd-ee7aefa347f8.png)
+    
+8.  Run dan lihat hasil outputnya.
+
+    ![Screenshot (44)](https://user-images.githubusercontent.com/72993076/97794791-d277b300-1c30-11eb-8682-c64f771da904.png)

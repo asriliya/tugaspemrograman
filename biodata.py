@@ -1,0 +1,16 @@
+print ("===BIODATA===")
+
+print(namalengkap = input ("Masukkan Nama Lengkap Anda : "))
+print(namapanggilan = input ("Masukkan Nama Panggilan Anda : "))
+print(nim =  input ("Masukkan NIM Anda : "))
+print(tempatlahir = input ("Masukkan Tempat Lahir Anda : "))
+print(umur = input ("Masukkan Umur Anda : "))
+print(telepon = input ("Masukkan No.Telepon Anda : "))
+print(alamat = input ("Masukkan Alamat Anda : "))
+
+print ("=====BIODATA ANDA=====")
+print ("Assalamu'alaikum")
+print()
+print ("Let me introduce my self. My name is" ,nama lengkap, "but you can call me" ,namapanggilan, "my NIM is" ,nim, "I was born in" ,tempatlahir, "and I am" ,umur, "years old", "I am very glad if you want to invite my house in" ,alamat, "So, don't forget to call me before with the number" ,telepon, ")
+print()
+print ("Thank you")

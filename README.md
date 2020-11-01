@@ -118,3 +118,10 @@ Untuk melakukan cloning, gunakan perintah git clone [url].
 # PYTHON
 
 
+Menjalankan Python di Visual Studio Code
+
+1.  Install VS Code terlebih dahulu.
+
+2.  Langkah selanjutnya adalah menginstall Python.
+
+3.  Setelah itu, buka VS Code dan buatlah sebuah file baru dengan nama lab1.py. Pada contoh berikut, saya meletakkan file lab1.py didalam folder Python.

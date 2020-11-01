@@ -83,8 +83,7 @@ git commit -m “komentar commit”.
         $ git remote add origin https://github.com/asriliya/tugaspemrograman
 	
 	
-	![Screenshot (35)](https://user-images.githubusercontent.com/72993076/97783192-b50efe80-1bc8-11eb-904b-65da5e0002a9.png)
-
+	![Screenshot (36)](https://user-images.githubusercontent.com/72993076/97783270-2babfc00-1bc9-11eb-99ae-ef036566c26c.png)
 
 
 

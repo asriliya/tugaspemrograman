@@ -113,3 +113,8 @@ git commit -m “komentar commit”.
 
 9.	Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
 Untuk melakukan cloning, gunakan perintah git clone [url].
+
+
+# PYTHON
+
+

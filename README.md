@@ -73,7 +73,7 @@ Buat direktory project praktikum pertama.
 6.	Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah 
 git commit -m “komentar commit”.
 
-        $ git commit -m “File pertama saya”
+        $ git commit -m “First commit”
 	
 	![Screenshot (35)](https://user-images.githubusercontent.com/72993076/97783192-b50efe80-1bc8-11eb-904b-65da5e0002a9.png)
 

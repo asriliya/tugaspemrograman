@@ -125,3 +125,8 @@ Menjalankan Python di Visual Studio Code
 2.  Langkah selanjutnya adalah menginstall Python.
 
 3.  Setelah itu, buka VS Code dan buatlah sebuah file baru dengan nama lab1.py. Pada contoh berikut, saya meletakkan file lab1.py didalam folder Python.
+
+     ![Screenshot (31)](https://user-images.githubusercontent.com/72993076/97794194-604fa000-1c29-11eb-9bf6-f02f12602db6.png)
+     
+4.  
+

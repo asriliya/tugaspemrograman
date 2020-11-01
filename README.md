@@ -80,7 +80,7 @@ git commit -m “komentar commit”.
 
 7.	Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url].
 
-        $ git remote add origin https://github.com/asriliya/asriliyaa.git
+        $ git remote add origin https://github.com/asriliya/tugaspemrograman
 	
 	
 	![Screenshot (35)](https://user-images.githubusercontent.com/72993076/97783192-b50efe80-1bc8-11eb-904b-65da5e0002a9.png)
